@@ -1,4 +1,2 @@
 # Evolve Sans
-Evolve Font
-
-R emoj
+Evolve Font for Android AOSP roms 
