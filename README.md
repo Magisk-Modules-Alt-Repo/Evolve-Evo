@@ -1,2 +1,2 @@
-# Evolve Sans
-Evolve Font for Android AOSP roms 
+# Evolve Evo Sans
+Evolve Evo Font for Android AOSP roms 
